@@ -195,3 +195,25 @@ h4 a:hover {
     background-color: white;
 }
 
+
+h3 {
+    font-size: 20mm;
+    font-style: italic;
+    color: white;
+    float: left;
+}
+
+h3 p {
+    margin: 10%;
+    font-size: larger;
+    float: right;
+
+}
+
+h2 {
+    font-size: 20mm;
+    font-style: italic;
+    color: white;
+    float: left;
+
+}
