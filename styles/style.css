@@ -1,0 +1,191 @@
+
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: monospace;
+    background-image: url(https://www.ecopetit.cat/wpic/mpic/18-189068_2048x1152-build-from-scratch-a-professional-business-business.jpg);
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-position: center center;
+    height: 100vh;
+}
+
+h1 {
+    padding-left: 3%;
+    padding-right: 0%;
+    padding-top: 0%;
+    padding-bottom: 0%;
+    color: #333;
+    font-style: italic;
+    background-color: darkolivegreen;
+    font-size: 3cm;
+    
+}
+
+h1 img {
+    padding-top: 2.9%;
+    padding-right: 38%;
+    padding-bottom: 0%;
+    float: right;
+
+}
+
+ h1 b {
+    
+     color: white;
+     font-size: 5cm;
+     font-family: cursive;
+     
+ }
+
+ 
+li {
+    display: inline;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    padding: 20px;
+    background-color: #333;
+}
+
+
+    
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding-left: 0%;
+    padding-right: 0%;
+    overflow: hidden;
+    
+    float: left;
+}
+
+li {
+    float: left;
+}
+
+
+ li a {
+     display: block;
+     color: white;
+     padding: 10px 88px;
+     text-align: right;
+     text-decoration: none;
+    font-size: 9mm;
+ }
+
+ li a:hover {
+     color:#111;
+ }
+ .active {
+     background-color: #4CAF50;    
+ }
+
+form section {
+    padding: 1%;
+    background-color: #333;
+    font-family: monospace;
+    float: right;
+
+    
+    
+}
+form section p{
+    background-color:#333;
+}
+
+form{
+    float: right;
+    
+    
+}
+ 
+
+
+ section {
+     background-color: #333;
+     font-size: medium;
+     text-align: center;
+ }
+
+p {
+    color:white;
+    font-size: 5mm;
+}
+
+main {
+    padding-left: 15%;
+}
+main section p{
+    font-size: 10mm;
+    text-align: left;
+    float: left;
+    font-weight: bolder;
+    
+
+}
+
+main section h4 {
+
+    
+    font-size: 15mm;
+    padding-bottom: 0%;
+    float: left;
+    text-align: center;
+    font-style: italic;
+    color: darkolivegreen;
+}
+
+h4 {
+    display: inline;
+}
+
+
+
+h4 a {
+    display: block;
+    padding: 8px;
+    background-color: darkolivegreen;
+}
+
+
+    
+
+
+
+
+h4 {
+    list-style-type: none;
+    margin: 5%;
+    padding-top: 0%;
+    overflow: hidden;
+    background-color: darkolivegreen;
+    
+}
+
+
+
+
+h4 a {
+     display: block;
+     color: white;
+     padding: 14px 16px;
+     text-align: center;
+     text-decoration: none;
+     float: right;
+}
+
+h4 a:hover {
+     color:#333;
+}
+
+h4 a:hover {
+    background-color: white;
+}
+
