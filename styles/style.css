@@ -1,5 +1,4 @@
 
-
 body {
     margin: 0;
     padding: 0;
@@ -88,21 +87,38 @@ li {
  }
 
 form section a{
-    padding: 1%;
-    background-color: #333;
+    
+    background-color: darkolivegreen;
     font-family: monospace;
     float: right;
     font-size: 2mm;
-
-    
-    
+      
 }
+
+form p b {
+
+    background-color: #333;
+    padding: 0% ;
+}
+
+p b{
+
+    font-size: 11mm;
+    color: darkolivegreen;
+}
+
 form section p{
     background-color:#333;
+    padding-bottom: 0%;
+    font-size: 5mm;
+    
 }
 
 form{
+    padding-top: 0%;
     float: right;
+    font-size: xx-large;
+    
    
 }
  
@@ -123,7 +139,7 @@ main {
     padding-left: 20%;
 }
 main section p{
-    font-size: 10mm;
+    font-size: 15mm;
     text-align: left;
     float: left;
     font-weight: bolder;
@@ -216,4 +232,9 @@ h2 {
     color: white;
     float: left;
 
+}
+
+my function {
+    color: darkolivegreen;
+    font-size: 10mm;
 }
